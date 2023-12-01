@@ -27,10 +27,10 @@ Batch 1: 100 Images
 
 
 3. **Complex YOLOv1:** Batch 2: training loss: loss:0.0108, validation loss: loss:0.0058
-4. **Normal YOLOv1:** Batch 2: training loss: loss:0.0106, validation loss: loss:0.0057
+4. **Normal YOLOv1:** Batch 2: training loss: loss:0.0106, validation loss: loss:0.0057 <br> <br> <br>
 
 5. **Complex YOLOv1:** Batch 3: training loss: loss:0.0102, validation loss: loss:0.0056
-6. **Normal YOLOv1:** Batch 3: training loss: loss:0.0099, validation loss: loss:0.0056
+6. **Normal YOLOv1:** Batch 3: training loss: loss:0.0099, validation loss: loss:0.0056 <br> <br> <br>
    
 
 ### EPOCH 2:                                                                          EPOCH 2:
