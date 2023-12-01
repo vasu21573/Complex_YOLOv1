@@ -8,9 +8,9 @@ Complex YOLOv1 weights link: https://drive.google.com/file/d/1RsAYPPWpliwnP51_gL
 # Dataset: VOC2007
 
 ## Training:
-Batch 1: 501 Images
-Batch 2: 499 Images
-Batch 3: 500 Images
+1. Batch 1: 501 Images
+2. Batch 2: 499 Images
+3. Batch 3: 500 Images
 
 ## Validation:
 Batch 1: 100 Images
