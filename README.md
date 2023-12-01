@@ -5,12 +5,12 @@ Normal YOLOv1 weights link: https://drive.google.com/file/d/1-PvoLYZyP_D5I5kQ5mx
 Complex YOLOv1 weights link: https://drive.google.com/file/d/1RsAYPPWpliwnP51_gLP2t9HxeUVih7ja/view?usp=sharing
 
 
-# Dataset: VOC2007
+## Dataset: VOC2007
 
-Training:
+# Training:
 Batch 1: 501 Images
 Batch 2: 499 Images
 Batch 3: 500 Images
 
-Validation:
+# Validation:
 Batch 1: 100 Images
