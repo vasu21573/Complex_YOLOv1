@@ -7,4 +7,4 @@
 
 ## Loss Plots:
 
-![GitHub Logo]
+![GitHub Logo](https://github.com/vasu21573/Complex_YOLOv1/blob/main/Training_plot.png)
