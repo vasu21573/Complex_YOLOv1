@@ -1,5 +1,6 @@
 # Complex_YOLOv1
-
+Undergraduate research to assess the performance of complex-valued neural networks in object detection when compared to traditional neural networks. Leveraging the YOLOv1 architecture as the baseline for object detection, the study involves developing and implementing
+complex-valued neural network models.
 ## Model Weights:
 
 **Complex Model**: https://drive.google.com/file/d/1rEC4LjTL-0WCGUKQ73WWIsBVfPLSrIZR/view?usp=sharing <br>
