@@ -10,4 +10,4 @@ complex-valued neural network models.
 ![image](https://github.com/vasu21573/Complex_YOLOv1/blob/main/training_loss_comparisons.png)
 
 ## Training mAP Plot:
-![image](https://github.com/vasu21573/Complex_YOLOv1/assets/108022785/b49ae36f-d18f-4f1a-a781-7c53df5cf6e7)
+![image](https://github.com/vasu21573/Complex_YOLOv1/blob/main/training_map_comparisons.png)
